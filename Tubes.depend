@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1704613027 source:c:\users\asus\downloads\tubes (1)\tubes\tubes\main.cpp
+	<iostream>
+
+1704613028 source:c:\users\rog\downloads\tubes(2)\tubes\tubes\main.cpp
+	<iostream>
+
+1704613028 source:c:\users\asus\downloads\tubes(2)\tubes(2)\tubes\tubes\main.cpp
+	<iostream>
+
+1704650631 source:c:\users\rog\downloads\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\main.cpp
+	<iostream>
+	"ecommerce.h"
+
+1704650340 source:c:\users\rog\downloads\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.cpp
+	"ecommerce.h"
+
+1704650640 c:\users\rog\downloads\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.h
+	<iostream>
+	"ecommerce.h"
+
+1704650631 source:c:\users\asus\downloads\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\main.cpp
+	<iostream>
+	"ecommerce.h"
+
+1704686336 c:\users\asus\downloads\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.h
+	<iostream>
+	"ecommerce.h"
+
+1704685985 source:c:\users\asus\downloads\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.cpp
+	"ecommerce.h"
+
+1704650632 source:c:\users\rog\downloads\tubes(4)\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\main.cpp
+	<iostream>
+	"ecommerce.h"
+
+1704686338 c:\users\rog\downloads\tubes(4)\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.h
+	<iostream>
+	"ecommerce.h"
+
+1704686822 source:c:\users\rog\downloads\tubes(4)\tubes(3)\tubes(3)\tubes(2)\tubes(2)\tubes\tubes\ecommerce.cpp
+	"ecommerce.h"
+
